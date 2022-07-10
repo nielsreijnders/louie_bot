@@ -1,0 +1,22 @@
+{
+  "name": "louie_bot",
+  "version": "1.0.0",
+  "description": "Trading bot for aandelen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nielsreijnders/louie_bot.git"
+  },
+  "keywords": [
+    "Louie"
+  ],
+  "author": "Niels Reijnders",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nielsreijnders/louie_bot/issues"
+  },
+  "homepage": "https://github.com/nielsreijnders/louie_bot#readme"
+}
